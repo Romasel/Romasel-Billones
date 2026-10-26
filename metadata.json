@@ -1,0 +1,6 @@
+{
+  "name": "AutoTrain AI - Free AI Automation Training Environment",
+  "description": "An interactive, hands-on training sandbox for learning and building AI workflow automations, agent pipelines, prompt chaining, and autonomous task routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

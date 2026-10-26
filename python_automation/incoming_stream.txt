@@ -1,0 +1,7 @@
+# Incoming Event Stream
+# Type 'ORDER' on one line, and the order details on the next line.
+
+System heartbeat ping
+ORDER
+Item: Cloud Server Cluster Pro (SKU: CLOUD-889) - Qty: 2 - Total: $1,450.00
+User navigated to billing page

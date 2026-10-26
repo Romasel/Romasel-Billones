@@ -1,0 +1,41 @@
+text,label
+"CRITICAL: Production database cluster is failing health checks, all users getting 500 error",Urgent
+"Payment failed twice and my service was suspended immediately! Please restore access",Urgent
+"Unauthorized credit card transaction of $850 detected on invoice #9921",Urgent
+"Our automated payment gateway is completely down, blocking checkout",Urgent
+"Emergency: API latency spike over 10 seconds, orders are dropping",Urgent
+"Help! I cannot login to the admin dashboard and we have a client presentation in 15 minutes",Urgent
+"Security alert: Multiple suspicious login attempts from unknown IP address",Urgent
+"Data loss report: Yesterday's export file is corrupt and missing rows",Urgent
+"URGENT: Legal compliance deadline today, please send our signed DPA contract",Urgent
+"Production deployment failed and site is showing 404 error",Urgent
+"Refund request: We were double charged on our annual renewal invoice",Urgent
+"Webhook endpoint returning 502 Bad Gateway for all incoming order events",Urgent
+"Account locked after 3 failed password attempts, need urgent reset",Urgent
+"Billing dispute: Unrecognized $1,200 charge on company card",Urgent
+"The server is running out of disk space, 98% capacity reached",Urgent
+"Disaster recovery alert: Database replica lag exceeding 1 hour",Urgent
+"Urgent bug: checkout button is non-responsive for European customers",Urgent
+"Customer data leak suspicion, please escalate to security officer immediately",Urgent
+"Fatal exception in transaction worker: payments not processing",Urgent
+"Immediate attention needed: SSL certificate expired on our public domain",Urgent
+"How do I update my profile picture in account settings?",Not Urgent
+"Thank you so much for the quick help yesterday, everything is working great now!",Not Urgent
+"Can you share information on your enterprise annual pricing tiers?",Not Urgent
+"Feature request: Would love to see dark mode added to the mobile app",Not Urgent
+"Where can I find the documentation for your v2 REST API?",Not Urgent
+"Looking to schedule a product demo for our marketing team sometime next week",Not Urgent
+"Just leaving feedback: The new dashboard interface looks very clean and modern",Not Urgent
+"Could you change our newsletter subscription email address?",Not Urgent
+"What are the supported export formats for analytics reports?",Not Urgent
+"Inquiring about potential partnership opportunities with our agency",Not Urgent
+"Is there a limit on how many webhook endpoints we can create on the Pro plan?",Not Urgent
+"Checking in to see if you have any webinars scheduled for next month",Not Urgent
+"Can I transfer ownership of a workspace to another team member?",Not Urgent
+"Minor typo spotted in section 3.2 of the getting started guide",Not Urgent
+"Wondering if you offer discounts for non-profit organizations?",Not Urgent
+"Could you recommend best practices for structuring our automation workflows?",Not Urgent
+"We really appreciate the prompt assistance from your support team",Not Urgent
+"How can I download a PDF copy of our previous invoices for tax filing?",Not Urgent
+"Are there any upcoming community meetups or office hours scheduled?",Not Urgent
+"Just curious if you have a roadmap for upcoming third-party integrations",Not Urgent

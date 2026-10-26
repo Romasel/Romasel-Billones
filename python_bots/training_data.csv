@@ -1,0 +1,22 @@
+# Training Dataset for Urgent vs Not Urgent Text Classification
+text,label
+"System down in Europe region, all checkout requests returning 500 error",Urgent
+"CRITICAL: database connection pool exhausted, customers cannot login",Urgent
+"Security alert: unauthorized access attempt detected on port 443",Urgent
+"Immediate action required: payment gateway failed for order #9921",Urgent
+"Help! Double charge on my corporate card, please reverse immediately",Urgent
+"Emergency: production cluster memory at 98% and swapping",Urgent
+"Our warehouse shipments are halted due to API timeout, urgent fix needed",Urgent
+"Urgent: client presentation in 30 minutes and exports are broken",Urgent
+"Data loss warning: replica lag exceeded 45 minutes",Urgent
+"ORDER #88412 cancelled by customer, please stop shipment immediately",Urgent
+"General question about your annual pricing discount for 20 seats",Not Urgent
+"Thank you for the quick resolution yesterday, everything is working great",Not Urgent
+"Where can I find the API documentation for webhook signatures?",Not Urgent
+"Feature request: would love a dark mode theme for the reporting dashboard",Not Urgent
+"Updating our company billing contact address for next month invoice",Not Urgent
+"Hi team, just checking in on the roadmap for Q4 integrations",Not Urgent
+"Feedback: the new workflow designer is much smoother, great work!",Not Urgent
+"Can you please send a copy of our receipt from March 2026?",Not Urgent
+"Inquiring if you support SAML single sign-on for Okta",Not Urgent
+"Just testing the contact form notification, please ignore",Not Urgent
